@@ -27,3 +27,5 @@ Unity青蛙跳的实现
 - 音效管理采用了资源的序列化，使角色走在不同的地面上播放不同的音效（速度控制快慢），子弹射击到不同材质的物体上时播放不同的音效。
 
 - 使用了AudioMixer调整游戏的背景音量。
+
+[【青蛙跳demo视频链接】]( https://www.bilibili.com/video/BV1nm4y1t7No/?share_source=copy_web&vd_source=081706f5636c74e45189e6d00e62d722)
